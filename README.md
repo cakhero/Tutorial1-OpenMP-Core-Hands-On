@@ -75,7 +75,9 @@ user    2.39s
 sys     0.01s
 cpu     395%
 ```
-<br/><p align="justify">Catatan: durasi waktu eksekusi kode program dapat berbeda tergantung performa prosesor komputer.</p><br/>
+<br/><p align="justify">Catatan: durasi waktu eksekusi kode program dapat berbeda tergantung performa prosesor komputer.</p>
+
+<br/><p align="justify">Semoga bermanfaat, terima kasih.</p><br/>
 
 ### Referensi
 https://openmpcon.org/wp-content/uploads/openmpcon2017/Tutorial1-OpenMP-Core-Hands-On.pdf
